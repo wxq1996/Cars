@@ -1,5 +1,6 @@
 package enums;
 
+//这个后面需要改
 public enum Speed {
 	MIN(3),//由于每一格算两米，所以这个地方要除以2，最低速是6米每秒
 	NORMAL_1(4),
